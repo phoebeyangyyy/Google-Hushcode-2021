@@ -4,8 +4,6 @@
 
 Google hashcode 2021 submission Total score - 7, 168, 575
 
-images.githubusercontent.com/48705328/109594184-361ec980-7ac7-11eb-98a0-b859bac0c207.png">
-
 **Team: Knives out**
 Keyan Chen
 Tianyu Zhan
